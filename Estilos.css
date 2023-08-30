@@ -1,0 +1,14 @@
+H1 {
+color: lightpink;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.JASPER {
+color: darkmagenta;
+font-family: monospace;
+}
+
+img:hover 
+{
+filter: saturate(150%);
+}   
